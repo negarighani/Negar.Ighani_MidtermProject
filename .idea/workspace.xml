@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2025ab4-3ad2-4c8b-9f4e-0d3c5fd1ecec" name="Changes" comment="" />
+    <list default="true" id="e2025ab4-3ad2-4c8b-9f4e-0d3c5fd1ecec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -49,7 +54,10 @@
       <workItem from="1654934160199" duration="10129000" />
       <workItem from="1655024272501" duration="24283000" />
       <workItem from="1655107372996" duration="29600000" />
-      <workItem from="1655200044112" duration="13864000" />
+      <workItem from="1655200044112" duration="15787000" />
+      <workItem from="1655297092914" duration="10223000" />
+      <workItem from="1655558733355" duration="16214000" />
+      <workItem from="1655619335666" duration="3820000" />
     </task>
     <servers />
   </component>
